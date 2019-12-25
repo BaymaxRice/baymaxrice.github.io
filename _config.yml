@@ -1,16 +1,5 @@
-# Site settings
-title: 随随便便
-SEOTitle: 大白| 随随便便 | code
-header-img: img/post-bg-desk.jpg
-email: baymaxrice@gmail.com
-description: "code."
-url: "http://baymax.site"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/BaymaxRice/baymaxrice.github.io.git" # you code repository
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-
-
-
+title: Baymax Code
+description: 大白的编程之路.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
