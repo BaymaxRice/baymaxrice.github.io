@@ -1,5 +1,5 @@
-title: Baymax Code
-description: 大白的编程之路.
-show_downloads: false
+title: Tactile theme
+description: Tactile is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-tactile
