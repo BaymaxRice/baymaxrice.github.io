@@ -3,167 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/docs/example/</loc>
+    <loc>http://baymax.site/docs/example/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/table-of-contents/with-toc/</loc>
+    <loc>http://baymax.site/docs/example/table-of-contents/with-toc/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/table-of-contents/without-toc/</loc>
+    <loc>http://baymax.site/docs/example/table-of-contents/without-toc/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/creating-a-new-theme/</loc>
+    <loc>http://baymax.site/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/migrate-from-jekyll/</loc>
+    <loc>http://baymax.site/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/table-of-contents/</loc>
+    <loc>http://baymax.site/docs/example/table-of-contents/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/collapsed/</loc>
+    <loc>http://baymax.site/docs/example/collapsed/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://baymax.site/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://baymax.site/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/goisforlovers/</loc>
+    <loc>http://baymax.site/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://baymax.site/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>http://baymax.site/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>http://baymax.site/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hugoisforlovers/</loc>
+    <loc>http://baymax.site/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>http://baymax.site/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>http://baymax.site/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>http://baymax.site/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>http://baymax.site/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://baymax.site/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/templates/</loc>
+    <loc>http://baymax.site/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>http://baymax.site/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/collapsed/3rd-level/4th-level/</loc>
+    <loc>http://baymax.site/docs/example/collapsed/3rd-level/4th-level/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/collapsed/3rd-level/</loc>
+    <loc>http://baymax.site/docs/example/collapsed/3rd-level/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/example/hidden/</loc>
+    <loc>http://baymax.site/docs/example/hidden/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/</loc>
+    <loc>http://baymax.site/docs/shortcodes/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/buttons/</loc>
+    <loc>http://baymax.site/docs/shortcodes/buttons/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/columns/</loc>
+    <loc>http://baymax.site/docs/shortcodes/columns/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/details/</loc>
+    <loc>http://baymax.site/docs/shortcodes/details/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/expand/</loc>
+    <loc>http://baymax.site/docs/shortcodes/expand/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/hints/</loc>
+    <loc>http://baymax.site/docs/shortcodes/hints/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/katex/</loc>
+    <loc>http://baymax.site/docs/shortcodes/katex/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/mermaid/</loc>
+    <loc>http://baymax.site/docs/shortcodes/mermaid/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/section/</loc>
+    <loc>http://baymax.site/docs/shortcodes/section/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/section/page1/</loc>
+    <loc>http://baymax.site/docs/shortcodes/section/page1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/section/page2/</loc>
+    <loc>http://baymax.site/docs/shortcodes/section/page2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shortcodes/tabs/</loc>
+    <loc>http://baymax.site/docs/shortcodes/tabs/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/</loc>
+    <loc>http://baymax.site/docs/</loc>
   </url>
   
 </urlset>
