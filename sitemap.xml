@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://baymax.site/post/1/</loc>
+    <lastmod>2021-01-21T16:04:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baymax.site/</loc>
+    <lastmod>2021-01-21T16:04:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baymax.site/post/</loc>
+    <lastmod>2021-01-21T16:04:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baymax.site/about/</loc>
+    <lastmod>2021-01-21T16:03:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baymax.site/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://baymax.site/tags/</loc>
+  </url>
+  
+</urlset>
